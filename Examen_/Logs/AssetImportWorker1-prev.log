@@ -15,9 +15,15 @@ E:/GitHub/Tony/Examen_/Examen_
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
+<<<<<<< Updated upstream
 64209
 Successfully changed project path to: E:/GitHub/Tony/Examen_/Examen_
 E:/GitHub/Tony/Examen_/Examen_
+=======
+52320
+Successfully changed project path to: C:/Users/anton/Documents/GitHub/Examen_/Examen_
+C:/Users/anton/Documents/GitHub/Examen_/Examen_
+>>>>>>> Stashed changes
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -49,11 +55,19 @@ E:/GitHub/Tony/Examen_/Examen_
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< Updated upstream
 Player connection [31072] Host "[IP] 192.168.1.183 [Port] 0 [Flags] 2 [Guid] 1695960132 [EditorId] 1695960132 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-80UC5B1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [31072] Host "[IP] 192.168.1.183 [Port] 0 [Flags] 2 [Guid] 1695960132 [EditorId] 1695960132 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-80UC5B1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 Refreshing native plugins compatible for Editor in 6.25 ms, found 3 plugins.
+=======
+Player connection [6924] Host "[IP] 192.168.0.16 [Port] 0 [Flags] 2 [Guid] 1244797248 [EditorId] 1244797248 [Version] 1048832 [Id] WindowsEditor(7,COMPUCHIPICHAPAPOCHIRIZZ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [6924] Host "[IP] 192.168.0.16 [Port] 0 [Flags] 2 [Guid] 1244797248 [EditorId] 1244797248 [Version] 1048832 [Id] WindowsEditor(7,COMPUCHIPICHAPAPOCHIRIZZ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 5.75 ms, found 3 plugins.
+>>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.2.21f1 (4907324dc95b)
 [Subsystems] Discovering subsystems at path B:/Unity/Unity/2022.2.21f1/Editor/Data/Resources/UnitySubsystems
@@ -66,6 +80,7 @@ Direct3D:
     VRAM:     8036 MB
     Driver:   32.0.15.6614
 Initialize mono
+<<<<<<< Updated upstream
 Mono path[0] = 'B:/Unity/Unity/2022.2.21f1/Editor/Data/Managed'
 Mono path[1] = 'B:/Unity/Unity/2022.2.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'B:/Unity/Unity/2022.2.21f1/Editor/Data/MonoBleedingEdge/etc'
@@ -81,21 +96,47 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (208ms)
 		BeginReloadAssembly (104ms)
+=======
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.2.21f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.2.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.2.21f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56808
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.2.21f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004500 seconds.
+- Loaded All Assemblies, in  0.338 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.249 seconds
+Domain Reload Profiling:
+	ReloadAssembly (196ms)
+		BeginReloadAssembly (99ms)
+>>>>>>> Stashed changes
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
 		LoadAllAssembliesAndSetupDomain (0ms)
+<<<<<<< Updated upstream
 			LoadAssemblies (104ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
 			SetupTypeCache (131ms)
 				TypeCache.Initialize (130ms)
 					TypeCache.ScanAssembly (126ms)
+=======
+			LoadAssemblies (97ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (135ms)
+				TypeCache.Initialize (134ms)
+					TypeCache.ScanAssembly (133ms)
+>>>>>>> Stashed changes
 				ResolveRequiredComponents (1ms)
 		FinalizeReload (0ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (0ms)
+<<<<<<< Updated upstream
 			SetupLoadedEditorAssemblies (238ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (8ms)
@@ -104,6 +145,16 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (1ms)
 				ProcessInitializeOnLoadAttributes (169ms)
 				ProcessInitializeOnLoadMethodAttributes (52ms)
+=======
+			SetupLoadedEditorAssemblies (196ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (7ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (131ms)
+				ProcessInitializeOnLoadMethodAttributes (49ms)
+>>>>>>> Stashed changes
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -111,6 +162,7 @@ Domain Reload Profiling:
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
+<<<<<<< Updated upstream
 Symbol file LoadedFromMemory doesn't match image E:\GitHub\Tony\Examen_\Examen_\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image E:\GitHub\Tony\Examen_\Examen_\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 - Loaded All Assemblies, in  0.758 seconds
@@ -180,10 +232,23 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (219ms)
 		BeginReloadAssembly (164ms)
+=======
+Symbol file LoadedFromMemory doesn't match image C:\Users\anton\Documents\GitHub\Examen_\Examen_\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\anton\Documents\GitHub\Examen_\Examen_\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.621 seconds
+Refreshing native plugins compatible for Editor in 2.00 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.512 seconds
+Domain Reload Profiling:
+	ReloadAssembly (182ms)
+		BeginReloadAssembly (112ms)
+>>>>>>> Stashed changes
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
+			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< Updated upstream
 			CreateAndSetChildDomain (44ms)
 		LoadAllAssembliesAndSetupDomain (379ms)
 			LoadAssemblies (243ms)
@@ -1439,15 +1504,26 @@ Domain Reload Profiling:
 				TypeCache.Initialize (205ms)
 					TypeCache.ScanAssembly (198ms)
 				ResolveRequiredComponents (5ms)
+=======
+			CreateAndSetChildDomain (18ms)
+		LoadAllAssembliesAndSetupDomain (436ms)
+			LoadAssemblies (243ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (244ms)
+				TypeCache.Initialize (229ms)
+					TypeCache.ScanAssembly (226ms)
+				ResolveRequiredComponents (3ms)
+>>>>>>> Stashed changes
 		FinalizeReload (0ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (0ms)
-			SetupLoadedEditorAssemblies (390ms)
+			SetupLoadedEditorAssemblies (382ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (3ms)
 				RefreshPlugins (0ms)
 				BeforeProcessingInitializeOnLoad (47ms)
+<<<<<<< Updated upstream
 				ProcessInitializeOnLoadAttributes (314ms)
 				ProcessInitializeOnLoadMethodAttributes (18ms)
 				AfterProcessingInitializeOnLoad (3ms)
@@ -1700,6 +1776,25 @@ Total: 2.905100 ms (FindLiveObjects: 0.282400 ms CreateObjectMapping: 0.158100 m
 Prepare: number of updated asset objects reloaded= 0
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+=======
+				ProcessInitializeOnLoadAttributes (303ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 3.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3088 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (56.9 KB). Loaded Objects now: 3577.
+Memory consumption went from 193.5 MB to 193.4 MB.
+Total: 2.878500 ms (FindLiveObjects: 0.191600 ms CreateObjectMapping: 0.100400 ms MarkObjects: 2.467800 ms  DeleteObjects: 0.117200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+>>>>>>> Stashed changes
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
@@ -1711,6 +1806,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
   Time since last request: 19109.915388 seconds.
   path: Assets/Audios/fogata_sfx.mp3
   artifactKey: Guid(d7367c11cc8b6164eb7d9c0a390dccf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -1897,10 +1993,17 @@ Received Import Request.
   path: Assets/Assets/LowPolyWater_Pack
   artifactKey: Guid(24f80ec7822477541bb8e3edd4d847ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Assets/LowPolyWater_Pack using Guid(24f80ec7822477541bb8e3edd4d847ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e7cb1a5c69a099348d5f33ddc90f2d') in 0.000515 seconds
+=======
+  Time since last request: 5378.285929 seconds.
+  path: Assets/BERCEST STUDIO
+  artifactKey: Guid(82b46bf9d3df70745aa125b16f5161b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BERCEST STUDIO using Guid(82b46bf9d3df70745aa125b16f5161b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffde39048f076b3e70941c884e73448c') in 0.002779 seconds
+>>>>>>> Stashed changes
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
   Time since last request: 4.464291 seconds.
   path: Assets/Assets/RPGPP_LT/Prefabs/Props
   artifactKey: Guid(4074df064ec1ac341a3d1ad54cefc56a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -2027,6 +2130,54 @@ Received Import Request.
 Start importing Assets/Assets/Kabungus/HouseholdItems/Prefabs/SledgeHammer2.prefab using Guid(3882c90189b37724aa690cbd45dd02d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60d7608058fdfcc69133f22e327dbe4d') in 0.022566 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 14
+=======
+  Time since last request: 0.890073 seconds.
+  path: Assets/BERCEST STUDIO/LP_MedievalShip/Prefabs/Ship/anchor.prefab
+  artifactKey: Guid(f39173d0820eb854084c03d872bb8676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BERCEST STUDIO/LP_MedievalShip/Prefabs/Ship/anchor.prefab using Guid(f39173d0820eb854084c03d872bb8676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07101631f053fe5fe9875bdb69a7221d') in 0.107765 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/BERCEST STUDIO/LP_MedievalShip/Prefabs/Ship/sail_furl.prefab
+  artifactKey: Guid(da41663e659c8b54fbf05194aa5f550d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BERCEST STUDIO/LP_MedievalShip/Prefabs/Ship/sail_furl.prefab using Guid(da41663e659c8b54fbf05194aa5f550d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d7051cc492823bbe1ebf0e13f23ac9e') in 0.009233 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/BERCEST STUDIO/LP_MedievalShip/Prefabs/Ship/sail.prefab
+  artifactKey: Guid(86e8cd1cf4506b148a0dc2922f6e7f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BERCEST STUDIO/LP_MedievalShip/Prefabs/Ship/sail.prefab using Guid(86e8cd1cf4506b148a0dc2922f6e7f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0664e68a9307ee2c8d0e26d88fb83299') in 0.007038 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/BERCEST STUDIO/LP_MedievalShip/Prefabs/Ship/sail_open.prefab
+  artifactKey: Guid(9dcd511f91320714e8e2b9e2c3823eca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BERCEST STUDIO/LP_MedievalShip/Prefabs/Ship/sail_open.prefab using Guid(9dcd511f91320714e8e2b9e2c3823eca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '751b7e980e6e1309e21806163934c87d') in 0.006682 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/BERCEST STUDIO/LP_MedievalShip/Prefabs/Ship/sail_mast.prefab
+  artifactKey: Guid(a5961a5dc94cc074eb27c2b1a3fdc610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BERCEST STUDIO/LP_MedievalShip/Prefabs/Ship/sail_mast.prefab using Guid(a5961a5dc94cc074eb27c2b1a3fdc610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45e4b464a2d0876ef45a940f474159e2') in 0.008479 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/BERCEST STUDIO/LP_MedievalShip/Prefabs/Ship/left_door.prefab
+  artifactKey: Guid(cc440eb7035a88945b52c0d67aad2be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BERCEST STUDIO/LP_MedievalShip/Prefabs/Ship/left_door.prefab using Guid(cc440eb7035a88945b52c0d67aad2be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2374360b6d86cb30b5e37c61fc09c8b') in 0.008109 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+>>>>>>> Stashed changes
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación.
 AssetImportWorker is now disconnected from the server
