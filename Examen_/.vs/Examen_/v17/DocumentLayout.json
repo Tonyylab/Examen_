@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\Tony\\Examen_\\Examen_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|e:\\github\\tony\\examen_\\examen_\\assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\menuconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|e:\\github\\tony\\examen_\\examen_\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\recipeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\recipeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\craftingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\craftingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\interactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\equipmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\equipmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\enemytimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemytimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\itemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\itemslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\craftingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\craftingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\equip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\equip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\craftingrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\craftingrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\respawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\respawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowF8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:45:53.032Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:42:19.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAIwHQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:35:36.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CraftingWindow.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\CraftingWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CraftingWindow.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\CraftingWindow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CraftingWindow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:54:53.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuConfiguration.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\MenuConfiguration.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuConfiguration.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\MenuConfiguration.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:14:58.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chest.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\Chest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Chest.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\Chest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Chest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:48:50.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:17:01.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EquipManager.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\EquipManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EquipManager.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\EquipManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EquipManager.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBwAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:08:21.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ItemSlotUI.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\ItemSlotUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemSlotUI.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\ItemSlotUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemSlotUI.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:49:26.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Respawn.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\Respawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Respawn.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\Respawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Respawn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:48:37.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemData.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\ItemData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:44:09.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerStats.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerStats.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwC8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:58:23.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:29:26.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InteractionManager.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\InteractionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionManager.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\InteractionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractionManager.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAWwDQAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:22:30.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnemyTimer.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\EnemyTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyTimer.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\EnemyTimer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyTimer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:26:17.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecipeUI.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\RecipeUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RecipeUI.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\RecipeUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RecipeUI.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:07:33.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Equip.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\Equip.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Equip.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\Equip.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Equip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:09:42.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItemObject.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\ItemObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemObject.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\ItemObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:13:20.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CraftingTable.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\CraftingTable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CraftingTable.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\CraftingTable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CraftingTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:48:53.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CraftingRecipe.cs",
+              "DocumentMoniker": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\CraftingRecipe.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CraftingRecipe.cs",
+              "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\CraftingRecipe.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CraftingRecipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:50:44.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

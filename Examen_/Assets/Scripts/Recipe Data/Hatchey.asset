@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9302176fb262dff4bb794b0eae715d89, type: 3}
+  m_Name: Hatchey
+  m_EditorClassIdentifier: 
+  itemToCraft: {fileID: 11400000, guid: 9a91f1e9bbf126841b0a2e9733add2e0, type: 2}
+  cost:
+  - item: {fileID: 11400000, guid: 3755d4dd9f293764ea641612a6365e37, type: 2}
+    quantity: 2
+  - item: {fileID: 11400000, guid: 1432e3e618902f64da90507c0df6973e, type: 2}
+    quantity: 2
+  - item: {fileID: 11400000, guid: 3ae0d967d3af46f49bb4689898c014f5, type: 2}
+    quantity: 1

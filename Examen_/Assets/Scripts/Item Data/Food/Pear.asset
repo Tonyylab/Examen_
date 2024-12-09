@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21af6857760ca4b41828c8566e225491, type: 3}
+  m_Name: Pear
+  m_EditorClassIdentifier: 
+  displayName: Pera
+  description: 
+  type: 2
+  icon: {fileID: 21300000, guid: a1263c4c53a3a20448ebc6677e7b1fa6, type: 3}
+  dropPrefab: {fileID: 1763817136346132, guid: 0f3575c567ebe8241a4a6ad511fd7017, type: 3}
+  equipPrefab: {fileID: 0}
+  Stackeable: 1
+  maxStack: 5
+  consumables:
+  - type: 0
+    value: 25
