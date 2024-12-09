@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "E:\\GitHub\\Tony\\Examen_\\Examen_\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|e:\\github\\tony\\examen_\\examen_\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|e:\\github\\tony\\examen_\\examen_\\assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|e:\\github\\tony\\examen_\\examen_\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|E:\\GitHub\\Tony\\Examen_\\Examen_\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26FF9748-6B35-2F2E-17D0-550908286EF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -115,8 +115,7 @@
               "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T16:42:19.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T16:42:19.877Z"
             },
             {
               "$type": "Document",
@@ -152,8 +151,7 @@
               "RelativeToolTip": "Assets\\Scripts\\MenuConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T11:14:58.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T11:14:58.816Z"
             },
             {
               "$type": "Document",
@@ -165,8 +163,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Chest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T10:48:50.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T10:48:50.948Z"
             },
             {
               "$type": "Document",
@@ -178,8 +175,7 @@
               "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T09:17:01.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T09:17:01.18Z"
             },
             {
               "$type": "Document",
@@ -239,8 +235,7 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerStats.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAmwC8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T13:58:23.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T13:58:23.196Z"
             },
             {
               "$type": "Document",
@@ -250,7 +245,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "E:\\GitHub\\Tony\\Examen_\\Examen_\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAgwFIAAAAAAAAA",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAcwHsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T20:29:26.078Z",
               "EditorCaption": ""

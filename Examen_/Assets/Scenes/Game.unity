@@ -26400,7 +26400,7 @@ MonoBehaviour:
   canMove: 0
   moveSpeed: 20
   originalMoveSpeed: 0
-  jumpForce: 20
+  jumpForce: 25
   groundLayerMask:
     serializedVersion: 2
     m_Bits: 8

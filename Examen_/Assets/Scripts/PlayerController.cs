@@ -102,26 +102,26 @@ public class PlayerController : MonoBehaviour
     {
         if (context.phase == InputActionPhase.Started)
         {
-            if (isGrounded())
+            if (isGrounded() == true)
             {
                 rig.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             }
         }
     }
 
-    bool isGrounded()
+     bool isGrounded()
     {
         Ray[] rays = new Ray[4]
         {
-            new Ray (transform.position + (transform.forward * 0.2f)+(Vector3.up*0.01f),Vector3.down),
-            new Ray(transform.position + (-transform.forward * 0.2f)+(Vector3.up*0.01f),Vector3.down),
-            new Ray(transform.position + (transform.right * 0.2f)+(Vector3.up*0.01f),Vector3.down),
-            new Ray(transform.position + (-transform.right * 0.2f)+(Vector3.up*0.01f),Vector3.down)
+            new Ray (transform.position + (transform.forward * 0.2f)+(Vector3.up*0.01f),Vector3.down*8),
+            new Ray(transform.position + (-transform.forward * 0.2f)+(Vector3.up*0.01f),Vector3.down*8),
+            new Ray(transform.position + (transform.right * 0.2f)+(Vector3.up*0.01f),Vector3.down * 8),
+            new Ray(transform.position + (-transform.right * 0.2f)+(Vector3.up*0.01f),Vector3.down*8)
 
         };
         for (int i = 0; i < rays.Length; i++)
         {
-            if (Physics.Raycast(rays[i], 0.1f, groundLayerMask))
+            if (Physics.Raycast(rays[i], 8, groundLayerMask))
             {
                 return true;
             }
@@ -132,10 +132,10 @@ public class PlayerController : MonoBehaviour
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.red;
-        Gizmos.DrawRay(transform.position + (transform.forward * 0.2f), Vector3.down);
-        Gizmos.DrawRay(transform.position + (-transform.forward * 0.2f), Vector3.down);
-        Gizmos.DrawRay(transform.position + (transform.right * 0.2f), Vector3.down);
-        Gizmos.DrawRay(transform.position + (-transform.right * 0.2f), Vector3.down);
+        Gizmos.DrawRay(transform.position + (transform.forward * 0.2f), Vector3.down*7);
+        Gizmos.DrawRay(transform.position + (-transform.forward * 0.2f), Vector3.down * 7);
+        Gizmos.DrawRay(transform.position + (transform.right * 0.2f), Vector3.down * 7);
+        Gizmos.DrawRay(transform.position + (-transform.right * 0.2f), Vector3.down * 7);
 
     }
 
