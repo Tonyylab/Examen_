@@ -26878,7 +26878,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 52527fada003630418ebcc01936becb0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 500cf4fb42eb43241bb8ac43d56de0ca, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -32537,7 +32537,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1295329099}
   m_Layer: 5
-  m_Name: (REVISAR)Situacionales
+  m_Name: Situacionales
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34688,7 +34688,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5541259663968097988, guid: 09c9f5c608802a445840bc09de487b61, type: 3}
       propertyPath: m_Name
-      value: (REVISAR)GameOver / Victory Screen
+      value: GameOver / Victory Screen
       objectReference: {fileID: 0}
     - target: {fileID: 5541259663968097988, guid: 09c9f5c608802a445840bc09de487b61, type: 3}
       propertyPath: m_IsActive
@@ -46492,7 +46492,7 @@ GameObject:
   - component: {fileID: 1949678022}
   - component: {fileID: 1949678021}
   m_Layer: 5
-  m_Name: (REVISAR)Canvas
+  m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -48907,7 +48907,7 @@ GameObject:
   - component: {fileID: 2076515242}
   - component: {fileID: 2076515241}
   m_Layer: 5
-  m_Name: (REVISAR)REEMPLAZAR POR CROSSHAIR
+  m_Name: CROSSHAIR
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -48953,7 +48953,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 3488241bfcb74c44399fca1b38440f7f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3198084f468bc144a9a902acfac8a49e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
